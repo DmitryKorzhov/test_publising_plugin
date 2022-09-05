@@ -1,9 +1,10 @@
-site_name: Improvado
+site_name:
 site_description: A cool description
 site_url: https://obsidiangitpublisher.netlify.app
 
 theme:
     name: 'material'
+    logo: assets/meta/favicons.png
     favicon: assets/meta/Unknown.png
     custom_dir: overrides
     font:
