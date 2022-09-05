@@ -44,4 +44,4 @@ It's interesting information about new data
 
 
 Test embed:
-![[Dmitry Korzhov#^81791b]]
+![[Dmitry Korzhov#Resources and Useful pages links]]
