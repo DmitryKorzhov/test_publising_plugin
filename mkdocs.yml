@@ -4,8 +4,8 @@ site_url: https://obsidiangitpublisher.netlify.app
 
 theme:
     name: 'material'
-    logo: docs/assets/meta/favicons.png
-    favicon: docs/assets/meta/favicons.png
+    logo: assets/meta/favicons.png
+    favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
         text: Ubuntu
