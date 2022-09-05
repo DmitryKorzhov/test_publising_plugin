@@ -42,4 +42,4 @@ It's interesting information about new data
 | [[pages/Vitaliy Mikhnevitch.md\|Vitaliy Mikhnevitch]] | Director of Architecture             | <ul><li>[[pages/Engineering BU.md\\|Engineering BU]]</li><li>[[pages/Engineering management.md\\|Engineering management]]</li></ul>                                                            |
 | [[pages/Vitaly Kustov.md\|Vitaly Kustov]]             | Director of Engeniring  America      | <ul><li>[[pages/R&D strategy team.md\\|R&D strategy team]]</li><li>[[pages/Engineering BU.md\\|Engineering BU]]</li><li>[[pages/Engineering management.md\\|Engineering management]]</li></ul> |
 
-Article: ![[Dmitry Korzhov#^81791b]] 
+Article: ![[Dmitry Korzhov#^e57e67]] 
