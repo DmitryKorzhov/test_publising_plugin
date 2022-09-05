@@ -1,6 +1,6 @@
 site_name: Improvado
 site_description: A cool description
-site_url: https://obsidiangitpublisher.netlify.app
+site_url: https://dmitrykorzhov.github.io/test_publising_plugin/
 
 theme:
     name: 'material'
