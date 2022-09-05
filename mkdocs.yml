@@ -1,6 +1,6 @@
 site_name: Improvado
 site_description: A cool description
-site_url: obsidiangitpublisher.netlify.app
+site_url: https://obsidiangitpublisher.netlify.app
 
 theme:
     name: 'material'
