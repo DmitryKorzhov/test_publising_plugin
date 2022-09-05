@@ -8,7 +8,7 @@ theme:
     favicon: assets/meta/logo.png
     custom_dir: overrides
     font:
-        text: Ubuntu
+        text: Raleway
         code: Ubuntu Mono
     language: en
     palette:
