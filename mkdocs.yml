@@ -4,7 +4,6 @@ site_url: https://obsidiangitpublisher.netlify.app
 
 theme:
     name: 'material'
-    logo: assets/meta/logo.png
     favicon: assets/meta/Unknown.png
     custom_dir: overrides
     font:
