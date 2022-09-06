@@ -10,12 +10,26 @@ department:: [[Knowledge team]]
 ## Obsidian tasks
 
 ### All tasks.
+# 1_revenue%2F5_customers
+
+    - [ ] [[Dmitry Korzhov]] is it folder? or  what it is  do you remember?
+# Daniel Kravtsov
+
+    - [ ] [[Dmitry Korzhov]] please be sure, we have this moment in out internal documentation. I think it hspudl be somewhere here:  ![[task#^fchjoi]]
+# dbt model
+
+    - [ ] [[Dmitry Korzhov]] please make all names bellow correct. for example this model [[1_revenue%2F5_customers%2Fmrt_customers_events]] and this one [[mrt_customers_events]] are the ame.
+        - [ ] i see a lot of models here from [[dbt]] wiht wrong names. please be sure it is clened.
+            - [ ] examples::
+                - [ ] [[1_revenue/5_customers/mrt_customers_events]]
+                - [ ] [[1_revenue%2F5_customers%2Fmrt_customers_events]]
+                - [ ] [[mrt_customers_events]]
 # employee
 
     - [ ] [[Dmitry Korzhov]] can we sort bellow by department sort order? form here?
-# Github Publisher
+# Friend
 
-    - [ ] I test it [[Dmitry Korzhov]]
+    - [ ] can i make photo size here smaller? [[Dmitry Korzhov]] ```dataview TABLE photo, geo WHERE contains(type, [[Friend]]) WHERE contains(geo, [[bay area]]) ```
 # GPT-3
 
     - [ ] Test it [[Dmitry Korzhov]] on [[Data sources]]
@@ -25,25 +39,31 @@ department:: [[Knowledge team]]
 # Mac OS Config
 
     - [ ] [[Dmitry Korzhov]]  check it out 
+# mrt_companies_scoring
+
+    - [ ] [[Dmitry Korzhov]] why we have here pages on top in dim companeis?  [[discuss]]
+    - [ ] [[Dmitry Korzhov]] i want to add bellow all fields from models [[stg_sfdc_contact]] and [[stg_sfdc_account]]
 # NLP Dates
 
-    - [ ] [[Dmitry Korzhov]] can yuo describe how to use time and date what is oru format here. and may be link this info to [[task]]
+    - [ ] [[Dmitry Korzhov]] ok, but why this page is not linked here and not desribed here? also it is not describe in [[task]] be sure, it is easy to find documentation. For exampel somebody who instelled this plugin wil never find our approach to [[date]]
 # Obsidian Plugins
 
     - [ ] [[Dmitry Korzhov]] add all properties to special folder to test plugin
     - [ ] [[Dmitry Korzhov]] check it our this plugin
-    - [ ] [[Dmitry Korzhov]] for some reason i can't install this plugin? can you mak it work? not urgent.
+    - [ ] [[Dmitry Korzhov]] for some reason i can't install this plugin? can you mak it work? not urgent. [[discuss]]
     - [ ] [[Dmitry Korzhov]] sturdy it for [[Obsidian Publish]]
     - [ ] [[Dmitry Korzhov]] pleaes research it when have time.
-    - [ ] [[Dmitry Korzhov]] actually a good questison. may be not powerfull. just a query. can you compare it with what we have now?
-# Recruiting VP of CS
+# Oleg Kulak
 
-    - [ ] [[Dmitry Korzhov]] why photos in table bellow so different from table from [[Recruiting VP of Product or Senior Product Manager]] ?
-        - [ ] ![[Pasted image 20220831102433.png]] ```dataview TABLE photo, status as "status", date_of_next_step, next_step, tech_score, process_score, industry_score, hustle_score, ((default(tech_score,0) + default(process_score,0) + default(industry_score,0) +default(hustle_score,0)) / 4) AS avg_score WHERE contains(role, [[Recruiting VP of CS]]) SORT avg_score desc SORT status ```
+    - [ ] [[Dmitry Korzhov]] please onboard [[Oleg Kulak]]
 # Recruiting VP of Product template
 
     - [ ] [[Dmitry Korzhov]] please teach me how to use this template when i create a new vp of P page. [[discuss]]
         - [ ] [[Dmitry Korzhov]] also please teach this [[Dmitry Olshevskiy]], may be record a video how to use templates?
+# Ways to work with YAML
+
+    - [ ] [[Dmitry Korzhov]] my [[Note Refactor]] plugin fosent wokr, lets etup it for me again. please be sure, all plugins that are mast have i have. oit os har to work wihtout majority of plugins. [[discuss]]x
+        - [ ] we need to transition everything after [[YAML#^b0808a]] in the new docuemnt with note refactoring.
 
 ### Critical tasks. 
 - [ ] [[Dmitry Korzhov]] please make this research [[critical]]
@@ -81,4 +101,4 @@ department:: [[Knowledge team]]
 
 
 
-- [ ] Obsidian save state of collapse [[Daniel Kravtsov]] [[discuss]]
+- [x] Obsidian save state of collapse  [[discuss]] [completion:: 2022-09-05]
