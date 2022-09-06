@@ -7,10 +7,10 @@ category: improvado
 
 | File                                                  | role                            |
 | ----------------------------------------------------- | ------------------------------- |
-| [[pages/Anton  Shvetsov.md\|Anton  Shvetsov]]         | Team Lead DevOps                |
-| [[pages/Michurin Konstantin.md\|Michurin Konstantin]] | Director of Engineering and QA  |
-| [[pages/Vitaliy Mikhnevitch.md\|Vitaliy Mikhnevitch]] | Director of Architecture        |
-| [[pages/Vitaly Kustov.md\|Vitaly Kustov]]             | Director of Engeniring  America |
+| [[Anton  Shvetsov]]         | Team Lead DevOps                |
+| [[Michurin Konstantin]] | Director of Engineering and QA  |
+| [[Vitaliy Mikhnevitch]] | Director of Architecture        |
+| [[Vitaly Kustov]]             | Director of Engeniring  America |
 
 - Management responsibilities 
 	- [[Michurin Konstantin]]
