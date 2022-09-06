@@ -10,14 +10,14 @@ share: true
 ## All public documents 
 | File                                                                                                                                  | category        | last edit  |
 | ------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------- |
-| [[pages/Engineering management.md\|Engineering management]]                                                                           | improvado       | 2022-09-06 |
-| [[pages/Michurin Konstantin.md\|Michurin Konstantin]]                                                                                 | improvado       | 2022-09-06 |
-| [[pages/New engineering managers' announcement and responsibilities.md\|New engineering managers' announcement and responsibilities]] | improvado       | 2022-09-06 |
-| [[pages/QA Team.md\|QA Team]]                                                                                                         | improvado       | 2022-09-06 |
-| [[pages/Vitaliy Mikhnevitch.md\|Vitaliy Mikhnevitch]]                                                                                 | improvado       | 2022-09-06 |
-| [[pages/Vitaly Kustov.md\|Vitaly Kustov]]                                                                                             | improvado       | 2022-09-06 |
-| [[pages/How to ask me for investor introduction.md\|How to ask me for investor introduction]]                                         | daniel_personal | 2022-09-06 |
-| [[pages/index.md\|index]]                                                                                                             | \-              | 2022-09-06 |
+| [[Engineering management\|Engineering management]]                                                                           | improvado       | 2022-09-06 |
+| [[Michurin Konstantin\|Michurin Konstantin]]                                                                                 | improvado       | 2022-09-06 |
+| [[New engineering managers' announcement and responsibilities\|New engineering managers' announcement and responsibilities]] | improvado       | 2022-09-06 |
+| [[QA Team\|QA Team]]                                                                                                         | improvado       | 2022-09-06 |
+| [[Vitaliy Mikhnevitch\|Vitaliy Mikhnevitch]]                                                                                 | improvado       | 2022-09-06 |
+| [[Vitaly Kustov\|Vitaly Kustov]]                                                                                             | improvado       | 2022-09-06 |
+| [[How to ask me for investor introduction\|How to ask me for investor introduction]]                                         | daniel_personal | 2022-09-06 |
+| [[\|index]]                                                                                                             | \-              | 2022-09-06 |
 
 
 ## Link to publish page 
