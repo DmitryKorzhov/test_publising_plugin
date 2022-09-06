@@ -4,7 +4,7 @@ dg-publish: true
 share: true
 ---
 
-
+q
 - How to ask for VC/investor introduction 
 	- double opt-out 
 	- I am happy to help and forward right intros to right people. Please make my help easier with next steps.
