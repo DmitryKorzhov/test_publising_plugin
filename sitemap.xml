@@ -31,12 +31,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://obsidiangitpublisher.netlify.app/improvado/Michurin%20Konstantin/</loc>
+         <lastmod>2022-09-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://obsidiangitpublisher.netlify.app/improvado/QA%20Team/</loc>
          <lastmod>2022-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://obsidiangitpublisher.netlify.app/improvado/Vitaliy%20Mikhnevitch/</loc>
+         <lastmod>2022-09-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://obsidiangitpublisher.netlify.app/improvado/Vitaly%20Kustov/</loc>
          <lastmod>2022-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
