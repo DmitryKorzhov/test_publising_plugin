@@ -18,4 +18,4 @@ share: true
 | [[QA Team]]                                                                                                         | 2022-09-06 |
 | [[Vitaliy Mikhnevitch]]                                                                                 | 2022-09-06 |
 | [[Vitaly Kustov]]                                                                                             | 2022-09-06 |
-| [[pages/How to ask me for investor introduction]]                                         | 2022-09-06 |
+| [[How to ask me for investor introduction]]                                         | 2022-09-06 |
