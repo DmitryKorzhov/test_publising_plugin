@@ -4,10 +4,10 @@ share: true
 category: improvado
 ---
 ## Properties
-type:: [[employee]]
+type:: [[Employee]]
 name:: Vitaliy Mikhnevitch
 role:: Director of Architecture 
-department::   [[Engineering BU]], [[Engineering management]] 
+department::   [[Enegeering Department]], [[Engineering management]] 
 email:: vitalymikhnevich@improvado.io
 
 ## Responsibilities

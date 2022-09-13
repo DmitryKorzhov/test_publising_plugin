@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-type:: [[project]]
+type:: [[Project]]
 project_owner:: [[Dmitry Korzhov]]
 status:: [[in done]]
 

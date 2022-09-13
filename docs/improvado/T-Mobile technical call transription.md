@@ -1,12 +1,8 @@
 ---
 share: true
 ---
+
 type:: [[call transcription]]
-
-- [ ] [[Dmitry Korzhov]] i want to publish whi page, but is it possible to have or
-	- [ ] All ful answers "colapsed" and only summary open? 
-	- [ ] or maky a query on top of the oucment that will show only Summary? 
-
 
 ### Full answer 1-5 min.
 - 0-5 min.
