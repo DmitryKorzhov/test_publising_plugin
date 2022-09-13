@@ -4,9 +4,9 @@ share: true
 category: improvado
 ---
 ## Properties
-type:: [[employee]]
+type:: [[Employee]]
 name:: Michurin Konstantin
-department:: [[QA Team]], [[Engineering BU]], [[Engineering management]]  
+department:: [[QA Team]], [[Enegeering Department]], [[Engineering management]]  
 role::  Director of Engineering and QA
 email:: konstantin.michurin@improvado.io
 linkedin_url::  [https://www.linkedin.com/in/konstantin-michurin/](https://www.linkedin.com/in/konstantin-michurin/)
