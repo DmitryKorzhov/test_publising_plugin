@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 type:: [[call transcription]]
 
 ### Full answer 1-5 min.
