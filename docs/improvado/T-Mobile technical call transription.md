@@ -4,6 +4,9 @@ share: true
 
 type:: [[call transcription]]
 
+- [ ] Check this link [T Mobile technical call transription - Improvado](https://obsidiangitpublisher.netlify.app/improvado/t-mobile%20technical%20call%20transription/) nagivation works as table of content [[discuss]]
+- [ ] [[Dmitry Korzhov]] how to hide/collapse ful conversation and show only summary? 
+
 ### Full answer 1-5 min.
 - 0-5 min.
 	- Full 0-5 min.
@@ -89,7 +92,7 @@ type:: [[call transcription]]
 		  
 		  Speaker 3: Yeah. I, I, I think, I mean, it is a good, it is a good approach to keep the short term and long term separate of coursealways keeping the long term in mind, because from the project implementation standpoint, as our data analyst team, working with your business users, we are going to implement data transformation. And on top of it, there will be doubledashboard connected to it. Do we need, we need relational database. So probably for the positive phase makes more senseto stick to Azure SQL because I dunno it's just a suggestion, but to Azure SQL, because on top of it, we can rise SQL andwe can implement this T-Mobile data model that is based on the business requirement that we got. Cuz otherwise, if wewill start with blob, it requires some action from your end, in order to give to our team a relational or set of table wherewe can rise SQL.
  
- ### Summary answer  5-15 min.
+### Summary answer  5-15 min.
 T-Mobile and Imprivada are discussng how to move forward with their partnership and data sharing. They discuss the pros and cons of using Azure SQL storage versus Azure blob storage. Imprivada suggests using Azure blob storage because it is more scalable and easier to transition to in the future. T-Mobile agrees that Azure blob storage is the best option for their needs. Imprivada will provide documentation on how to configure Azure blob storage for their use. T-Mobile is also interested in using Imprivada's ADLs service in the future. Imprivada is currently only able to support Azure blob storage but may be able to support ADLs in the future. T-Mobile and Imprivada agree that Azure blob storage is the best option for their needs at this time. Imprivada will provide T-Mobile with a set of IP addresses that they will need to whitelist in order to use their services. T-Mobile and Imprivada will continue to discuss their data sharing needs and how to best move forward.
 
 ### Ful answer 15-25 min.
@@ -148,8 +151,8 @@ T-Mobile and Imprivada are discussng how to move forward with their partnership 
 		  Speaker 8: I have, I have one, one question just to, because I think, I think we're on the same page and this is super helpful, but to, tolevel set, I wanna make sure that the, the initial assumptions by some dif by our, by the two different teams, Fabio, I thinkyour original recommendation was the solution. We just talked through where the Azure instance lives on the T-Mobileside. I think I, I just learned that Millie's assumption was that this Azure lived on the Imprivado side. So I wanna makesure that is, I wanna make sure that kind of the reasons for that. And she was under the assumption that the cloud storageagreement that we've already signed with Imprivado covered that. So just wanted to kind of pick your brain around. Maybe the reasons why that is not the ideal solution or if that's also on the table as a potential solution. And it maysimplify things.
 
 ### Summary 15-25 min.
-- [ ] [[Natalia Strebkova]] can you add diagram here form the call? 
 - [ ] [[Dmitry Korzhov]] please try to add with links to gong next time, so ti wil be easier to find. asi undertand it is simple just copy past. 
+- [ ] ![[Pasted image 20220913222435.png]]
 The Diagram depicts T-Mobile's data model in which data analysts write SQL code to manipulate and transform data collected from business requirements into new views or tables that can be used by Tableau dashboards. Tablo requires access to a relational database or database not a file storage or BLOB storage in order to replicate the data. The best approach for the prototype is to stick with Azure SQL because it will give the ability to write custom views and have a dedicated Azure SQL environment. The size limitations for Azure SQL databases are based on the data volumes. Power BI is an option for the prototype if Tableau is not preferred. AWS is where all the connectors and data acquisition is happening. The data is then relayed back to Azure infrastructure for transformation and data modeling. If Tableau is chosen as the method for data consumption, the data will have to be moved from Azure to on-prem, which will increase cost and latency. If Power BI is chosen, the performance will be better because of the native connectors and Microsoft backbone. Azure SQL does not require Azure storage. The initial assumption was that the Azure instance would live on the Imprivado side, but it is better if it lives on the T-Mobile side.
 
 ### Full answer 25-35 min.
