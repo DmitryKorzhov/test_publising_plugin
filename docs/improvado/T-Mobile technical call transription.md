@@ -4,47 +4,47 @@ share: true
 
 type:: [[call transcription]]
 
-- [ ] Check this link [T Mobile technical call transription - Improvado](https://obsidiangitpublisher.netlify.app/improvado/t-mobile%20technical%20call%20transription/) nagivation works as table of content [[discuss]]
-- [ ] [[Dmitry Korzhov]] how to hide/collapse ful conversation and show only summary? 
 
-### Full answer 1-5 min.
-- 0-5 min.
-	- Full 0-5 min.
-		- Speaker 0: Thank you all for joining. I am actually going to share my screen. I have just a few slides just for visuals that we've talkedabout in the past to help us just stay on the same page and making sure we're all the same understanding, but gimme onesecond and it will join. Angela. Couldn't join, but you have me Dana and Dave from our side. And then Eric is Michaeljoining.
-		  
-		  Speaker 1: He should let me ping him really quick. I know that Fabio and Ariel are on as well, but let me, let me ping Michael.
-		  
-		  Speaker 0: Okay, perfect.
-		  
-		  Speaker 2: We can see your screen on.
-		  
-		  Speaker 0: Awesome. Okay, well, I'm gonna go ahead and get started. There's a lot of people on this call, so I just wanna do quickintroductions, Eric or Fabio, if you wanna introduce your side and then me and Dave and Dan can introduce our side.
-		  
-		  Speaker 3: Yeah. Thank you. Laura FIO. Marton I'm the chief strategy officer here I'm role in the project is to, as executive supportedto be sure that I he's moving forward properly. And from our end, we have Eric our VP solution consulting in charge ofthe professional service. Michael Belan is our key account manager for T-Mobile account and is the project manager thatis coordinating all activities from the professional services perspective. Nice to meet you all.
-		  
-		  Speaker 0: Thank you. And then from our side, you know, a lot of us, but you have me Dan and Dave who are project leads, Mohifrom your side. Would you mind introduce?
-		  
-		  Speaker 0: Introduce your side as well.
-		  
-		  Speaker 2: Drew has joined, so I'll let you do do it. Oh, thank you.
-		  
-		  Speaker 4: Yeah. Do I represent the, the larger RS group? Oh, nice meet you for folks. No, yeah. Nice meeting you too. So from theT-Mobile side, number of our team, number of the teams know us, but we fulfill a role where we try to consolidateanalytics and reporting, try to provide kind of one-stop shop for a number of different lines of business. And so that's kindof where the expertise comes in is that we typically are sourced in data, both internal and external T-Mobile to bringtogether kind of that consolidated customer view. And so on the call you've got here Mo hit Aries list as well. They helpus from management of our platforms, infrastructure also providing kind of our technical roadmap, capabilities, guidelines, kind of help guide our future. Then you got Mondu, which I actually don't. Oh, she
-		  
-		  Speaker 0: Must be able to join she's on PTO.
-		  
-		  Speaker 4: Okay. Right now she represents the, some of our support for the line of business within digital. And so she's that kindaconnection to that specific string. And then, yeah. And then I'm just here, so
-		  
-		  Speaker 0: Awesome. And then Jennifer, you and Keenan, I know everybody knows you, but feel free to introduce your size. Well, just since it's new more faces.
-		  
-		  Speaker 5: Yes. So Millie manages media analytics under the broader marketing group. We support across enterprise lines ofbusinesses. So on so forth, we are one of the many of ours stakeholders when it comes to reporting analytics data, wework with ours very closely when it comes to media data together with a law of the conversion data as well, you wouldsee us being involved in a law platform, configurations, especially when it comes to different metrics, whether or not it'sonline, offline, and also us providing quite a bit of business requirements over to the RS team. So we work very closelywith and drew for many of our projects.
-		  
-		  Speaker 0: Well, thank you all. And I, I know I saw keen join. I don't think anybody else joined last minute, but what I wanna go overcuz there's, it is a larger project and there's been a lot of back and forth, but kind of grounding us on the meeting purposeand Dave, you and I were just chatting. So feel free to jump in at any point, but as you all know, what we're calling theprototype phase is having Imprivado manage the connection of 100% of the data for media team reporting and landing itin a single environment. And a single environment is the question mark. And I have visuals that Millie shared with Philnarrative to get cross functional alignment and make sure they're all in agreement. And then one thing we've talked abouta lot in emails drew, you may have seen is the idea of mid to long term, mid to long term we're scheduling meetings in acouple in the future later later date to look at once this prototype phase of stuff and running, and it's a working prototype, then looking at doing a gap analysis to feed, to see what is missing within T-Mobile data and how can we bridge theconnection so long term, we're just using internal data, but we need something up and running for media reporting aspect.
-		  
-		  Speaker 0: And then we'll look at the mid to long term, which is where we will really heavily lean on working with Jennifer and drewand Mohan and the rest of the team, because this is S y'all's bread and butter. But so the purpose of the call is to reallydiscuss like which environment is the best. And like what's our options here. Milli had shared when there's some internalunderstanding that it would be an Imprivado environment. I know Fabio you had recommended it'd be a T-Mobile Azureenvironment. And so I wanna kind of actually make this a little more of a brainstorm discussion between Fabio you anddrew and your team what's the best solution. And I know there are a lot of, of caveats and nuances if it were to be T-Mobile and I wanna make sure that we have all of those laid out and then once we figure out what the best plan is, what'snext steps. So that me and Dan can hit the ground running for y'all any initial thoughts or questions.
+## Answers 1-5 min
 
-### Summary of 0-5 min.
-[[T-Mobile]] and Improvado came together to discuss how to best gather and store customer data for reports and analytics. T-Mobile's team is responsible for managing and coordinating data from various business lines, while Imprivado's team is responsible for connecting data from various sources. The goal of the meeting was to determine which environment would be best for storing and connecting the data. T-Mobile's team recommended that the data be stored in a T-Mobile Azure environment, while Imprivado's team recommended that the data be stored in an Imprivado environment. After discussion, it was decided that the data should be stored in an Imprivado environment. The next steps are to determine how to connect the data from various sources and to create a prototype phase to test the connection.
+> [!summary]- Full answer 0-5 min.
+> Speaker 0: Thank you all for joining. I am actually going to share my screen. I have just a few slides just for visuals that we've talkedabout in the past to help us just stay on the same page and making sure we're all the same understanding, but gimme onesecond and it will join. Angela. Couldn't join, but you have me Dana and Dave from our side. And then Eric is Michaeljoining.
+> 
+> Speaker 1: He should let me ping him really quick. I know that Fabio and Ariel are on as well, but let me, let me ping Michael.
+> 
+> Speaker 0: Okay, perfect.
+> 
+> Speaker 2: We can see your screen on.
+> 
+> Speaker 0: Awesome. Okay, well, I'm gonna go ahead and get started. There's a lot of people on this call, so I just wanna do quickintroductions, Eric or Fabio, if you wanna introduce your side and then me and Dave and Dan can introduce our side.
+> 
+> Speaker 3: Yeah. Thank you. Laura FIO. Marton I'm the chief strategy officer here I'm role in the project is to, as executive supportedto be sure that I he's moving forward properly. And from our end, we have Eric our VP solution consulting in charge ofthe professional service. Michael Belan is our key account manager for T-Mobile account and is the project manager thatis coordinating all activities from the professional services perspective. Nice to meet you all.
+> 
+> Speaker 0: Thank you. And then from our side, you know, a lot of us, but you have me Dan and Dave who are project leads, Mohifrom your side. Would you mind introduce?
+> 
+> Speaker 0: Introduce your side as well.
+> 
+> Speaker 2: Drew has joined, so I'll let you do do it. Oh, thank you.
+> 
+> Speaker 4: Yeah. Do I represent the, the larger RS group? Oh, nice meet you for folks. No, yeah. Nice meeting you too. So from theT-Mobile side, number of our team, number of the teams know us, but we fulfill a role where we try to consolidateanalytics and reporting, try to provide kind of one-stop shop for a number of different lines of business. And so that's kindof where the expertise comes in is that we typically are sourced in data, both internal and external T-Mobile to bringtogether kind of that consolidated customer view. And so on the call you've got here Mo hit Aries list as well. They helpus from management of our platforms, infrastructure also providing kind of our technical roadmap, capabilities, guidelines, kind of help guide our future. Then you got Mondu, which I actually don't. Oh, she
+> 
+> Speaker 0: Must be able to join she's on PTO.
+> 
+> Speaker 4: Okay. Right now she represents the, some of our support for the line of business within digital. And so she's that kindaconnection to that specific string. And then, yeah. And then I'm just here, so
+> 
+> Speaker 0: Awesome. And then Jennifer, you and Keenan, I know everybody knows you, but feel free to introduce your size. Well, just since it's new more faces.
+> 
+> Speaker 5: Yes. So Millie manages media analytics under the broader marketing group. We support across enterprise lines ofbusinesses. So on so forth, we are one of the many of ours stakeholders when it comes to reporting analytics data, wework with ours very closely when it comes to media data together with a law of the conversion data as well, you wouldsee us being involved in a law platform, configurations, especially when it comes to different metrics, whether or not it'sonline, offline, and also us providing quite a bit of business requirements over to the RS team. So we work very closelywith and drew for many of our projects.
+> 
+> Speaker 0: Well, thank you all. And I, I know I saw keen join. I don't think anybody else joined last minute, but what I wanna go overcuz there's, it is a larger project and there's been a lot of back and forth, but kind of grounding us on the meeting purposeand Dave, you and I were just chatting. So feel free to jump in at any point, but as you all know, what we're calling theprototype phase is having Imprivado manage the connection of 100% of the data for media team reporting and landing itin a single environment. And a single environment is the question mark. And I have visuals that Millie shared with Philnarrative to get cross functional alignment and make sure they're all in agreement. And then one thing we've talked abouta lot in emails drew, you may have seen is the idea of mid to long term, mid to long term we're scheduling meetings in acouple in the future later later date to look at once this prototype phase of stuff and running, and it's a working prototype, then looking at doing a gap analysis to feed, to see what is missing within T-Mobile data and how can we bridge theconnection so long term, we're just using internal data, but we need something up and running for media reporting aspect.
+> 
+> Speaker 0: And then we'll look at the mid to long term, which is where we will really heavily lean on working with Jennifer and drewand Mohan and the rest of the team, because this is S y'all's bread and butter. But so the purpose of the call is to reallydiscuss like which environment is the best. And like what's our options here. Milli had shared when there's some internalunderstanding that it would be an Imprivado environment. I know Fabio you had recommended it'd be a T-Mobile Azureenvironment. And so I wanna kind of actually make this a little more of a brainstorm discussion between Fabio you anddrew and your team what's the best solution. And I know there are a lot of, of caveats and nuances if it were to be T-Mobile and I wanna make sure that we have all of those laid out and then once we figure out what the best plan is, what'snext steps. So that me and Dan can hit the ground running for y'all any initial thoughts or questions.
 
+> [!summary]- Summary answer 0-5 min.
+> [[T-Mobile]] and Improvado came together to discuss how to best gather and store customer data for reports and analytics. T-Mobile's team is responsible for managing and coordinating data from various business lines, while Imprivado's team is responsible for connecting data from various sources. The goal of the meeting was to determine which environment would be best for storing and connecting the data. T-Mobile's team recommended that the data be stored in a T-Mobile Azure environment, while Imprivado's team recommended that the data be stored in an Imprivado environment. After discussion, it was decided that the data should be stored in an Imprivado environment. The next steps are to determine how to connect the data from various sources and to create a prototype phase to test the connection.
+
+
+## Answer 5-15 min.
 ### Full answer 5-15 min.
 - 5-15 min.
 	- Full 5-15.
@@ -151,7 +151,7 @@ T-Mobile and Imprivada are discussng how to move forward with their partnership 
 		  Speaker 8: I have, I have one, one question just to, because I think, I think we're on the same page and this is super helpful, but to, tolevel set, I wanna make sure that the, the initial assumptions by some dif by our, by the two different teams, Fabio, I thinkyour original recommendation was the solution. We just talked through where the Azure instance lives on the T-Mobileside. I think I, I just learned that Millie's assumption was that this Azure lived on the Imprivado side. So I wanna makesure that is, I wanna make sure that kind of the reasons for that. And she was under the assumption that the cloud storageagreement that we've already signed with Imprivado covered that. So just wanted to kind of pick your brain around. Maybe the reasons why that is not the ideal solution or if that's also on the table as a potential solution. And it maysimplify things.
 
 ### Summary 15-25 min.
-- [ ] [[Dmitry Korzhov]] please try to add with links to gong next time, so ti wil be easier to find. asi undertand it is simple just copy past. 
+- [x] [[Dmitry Korzhov]] please try to add with links to gong next time, so ti wil be easier to find. asi undertand it is simple just copy past. [completion:: 2022-09-14]
 - [ ] ![[Pasted image 20220913222435.png]]
 The Diagram depicts T-Mobile's data model in which data analysts write SQL code to manipulate and transform data collected from business requirements into new views or tables that can be used by Tableau dashboards. Tablo requires access to a relational database or database not a file storage or BLOB storage in order to replicate the data. The best approach for the prototype is to stick with Azure SQL because it will give the ability to write custom views and have a dedicated Azure SQL environment. The size limitations for Azure SQL databases are based on the data volumes. Power BI is an option for the prototype if Tableau is not preferred. AWS is where all the connectors and data acquisition is happening. The data is then relayed back to Azure infrastructure for transformation and data modeling. If Tableau is chosen as the method for data consumption, the data will have to be moved from Azure to on-prem, which will increase cost and latency. If Power BI is chosen, the performance will be better because of the native connectors and Microsoft backbone. Azure SQL does not require Azure storage. The initial assumption was that the Azure instance would live on the Imprivado side, but it is better if it lives on the T-Mobile side.
 
