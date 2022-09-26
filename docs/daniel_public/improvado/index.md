@@ -1,6 +1,7 @@
 ---
 share: true
 description: this is main document for improvado public material that we are share openly in the web. 
+category: improvado
 ---
 
 ## Improvado public documents taxonomy 
@@ -11,10 +12,10 @@ description: this is main document for improvado public material that we are sha
 ## List of All documents 
 | File                                                                                    | category      | last edit          |
 | --------------------------------------------------------------------------------------- | ------------- | ------------------ |
-| [[pages/Daniel Kravtsov public information.md\|Daniel Kravtsov public information]]     | \-            | September 26, 2022 |
+| [[pages/Daniel Kravtsov public information.md\|Daniel Kravtsov public information]]     | daniel_public | September 26, 2022 |
 | [[pages/How to ask for investor introduction.md\|How to ask for investor introduction]] | daniel_public | September 26, 2022 |
-| [[pages/Recommendation for interview.md\|Recommendation for interview]]                 | \-            | September 26, 2022 |
-| [[pages/index.md\|index]]                                                               | \-            | September 26, 2022 |
+| [[pages/Recommendation for interview.md\|Recommendation for interview]]                 | improvado     | September 26, 2022 |
+| [[pages/index.md\|index]]                                                               | improvado     | September 26, 2022 |
 
 
 ## Link to publish page 

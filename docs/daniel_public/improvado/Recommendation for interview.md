@@ -1,6 +1,7 @@
 ---
 share: true
 description: Advices afor intervie with improvado
+category: improvado 
 ---
 
 - Recommendation for interview? 
