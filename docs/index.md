@@ -11,10 +11,10 @@ description: this is main document for improvado public material that we are sha
 ## List of All documents 
 | File                                                                                    | category      | last edit          |
 | --------------------------------------------------------------------------------------- | ------------- | ------------------ |
-| [[pages/Daniel Kravtsov public information.md\|Daniel Kravtsov public information]]     | daniel_public | September 26, 2022 |
-| [[pages/How to ask for investor introduction.md\|How to ask for investor introduction]] | daniel_public | September 26, 2022 |
-| [[pages/Recommendation for interview.md\|Recommendation for interview]]                 | improvado     | September 26, 2022 |
-| [[pages/index.md\|index]]                                                               | \-            | September 26, 2022 |
+| [[Daniel Kravtsov public information]]     | daniel_public | September 26, 2022 |
+| [[How to ask for investor introduction]] | daniel_public | September 26, 2022 |
+| [[Recommendation for interview]]                 | improvado     | September 26, 2022 |
+| [[index]]                                                               | \-            | September 26, 2022 |
 
 
 ## Link to publish page 
