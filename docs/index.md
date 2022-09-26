@@ -1,23 +1,20 @@
 ---
 share: true
+description: this is main document for improvado public material that we are share openly in the web. 
 ---
 
-## Improvado documents
-- Engeniring
-	- [[Engineering management]]
-	- [[QA Team]]
+## Improvado public documents taxonomy 
+- [[Recommendation for interview]]
+- More information about CEO - [[Daniel Kravtsov public information]]
 
-## All public documents 
-| File                                                                                                                                  | category        | last edit  |
-| ------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------- |
-| [[Engineering management]]                                                                           | improvado       | 2022-09-06 |
-| [[Michurin Konstantin]]                                                                                 | improvado       | 2022-09-06 |
-| [[New engineering managers' announcement and responsibilities]] | improvado       | 2022-09-06 |
-| [[QA Team]]                                                                                                         | improvado       | 2022-09-06 |
-| [[Vitaliy Mikhnevitch]]                                                                                 | improvado       | 2022-09-06 |
-| [[Vitaly Kustov]]                                                                                             | improvado       | 2022-09-06 |
-| [[How to ask me for investor introduction]]                                         | daniel_personal | 2022-09-06 |
-| [[index]]                                                                                                             | \-              | 2022-09-06 |
+
+## List of All documents 
+| File                                                                                    | category      | last edit          |
+| --------------------------------------------------------------------------------------- | ------------- | ------------------ |
+| [[pages/Daniel Kravtsov public information.md\|Daniel Kravtsov public information]]     | daniel_public | September 26, 2022 |
+| [[pages/How to ask for investor introduction.md\|How to ask for investor introduction]] | daniel_public | September 26, 2022 |
+| [[pages/Recommendation for interview.md\|Recommendation for interview]]                 | improvado     | September 26, 2022 |
+| [[pages/index.md\|index]]                                                               | \-            | September 26, 2022 |
 
 
 ## Link to publish page 
