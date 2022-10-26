@@ -24,8 +24,6 @@ There are 2 forms of hierarchies:
 ![[image-13.png]]![[image-12.png]]
 ![[image-11.png]]![[image-10.png]]
 
-### [How to ask complicated questions?](https://improvado.quip.com/Ax0QAz11nXzv#temp:C:eDW9fa9f3a525fc4c9593ae387aa)
-
 ### How to Name Titles for Documents 
 
 - Ask yourself how you will search for the document? 
@@ -47,7 +45,7 @@ It is extremely important to write agenda and plan for all meetings we do:
     - Then provide details for questions.
     - Then provide your best guess what do you think may be an answer. You always can guess. 
     - If your details were long then repeat question in 1 sentence again to finish the speech.
-- It is refer to  [Structure Information In Minto PYRAMID: a03 “7 Principles and 60 rules” - How we do it?](https://improvado.quip.com/oVPAAiqWjaoi#FVMACAZl6s2)
+- It is refer to [Structure Information In Minto PYRAMID: a03 “7 Principles and 60 rules” - How we do it?](https://improvado.quip.com/oVPAAiqWjaoi#FVMACAZl6s2)
 
 
 
