@@ -33,8 +33,8 @@ priority::2
 
 | File                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [[pages/Daniel Kravtsov public information.md\|Daniel Kravtsov public information]]                                                     |
-| [[pages/How to ask for investor introduction.md\|How to ask for investor introduction]]                                                 |
-| [[pages/Improvado Values - Identity, moral, 7 Principals, and Vision.md\|Improvado Values - Identity, moral, 7 Principals, and Vision]] |
-| [[pages/Minto Piramid principle - Barbara Minto.md\|Minto Piramid principle - Barbara Minto]]                                           |
-| [[pages/Recommendation for interview.md\|Recommendation for interview]]                                                                 |
+| [[Daniel Kravtsov public information]]                                                     |
+| [[How to ask for investor introduction]]                                                 |
+| [[Improvado Values - Identity, moral, 7 Principals, and Vision]] |
+| [[Minto Piramid principle - Barbara Minto]]                                           |
+| [[Recommendation for interview]]                                                                 |
