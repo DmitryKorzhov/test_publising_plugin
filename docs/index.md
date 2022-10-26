@@ -24,4 +24,4 @@ acess_level: public
 
 ## Link to publish page 
 
-- [Improvado](https://obsidiangitpublisher.netlify.app/#) — home page.
+- [Improvado](https://improvado-public.netlify.app) — home page.
