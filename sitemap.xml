@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://obsidiangitpublisher.netlify.app/</loc>
+         <loc>https://obsidiangitpublisher.netlify.app/Daniel%20Kravtsov%20public%20information/</loc>
+         <lastmod>2022-10-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://obsidiangitpublisher.netlify.app/How%20to%20ask%20for%20investor%20introduction/</loc>
+         <lastmod>2022-10-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://obsidiangitpublisher.netlify.app/Minto%20Piramid%20principle%20-%20Barbara%20Minto/</loc>
          <lastmod>2022-10-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
